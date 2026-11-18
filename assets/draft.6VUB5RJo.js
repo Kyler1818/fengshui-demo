@@ -1,0 +1,1 @@
+import{a8 as n,a9 as o,aa as t}from"./index-CsqTySEf.js";const a="fs:v1:demo:draft";function e(){return n(a,null)}function s(n){o(a,n)}function u(){t(a)}function r(n){const o={sceneType:"indoor",photos:[],heading:null,headingSource:"unknown",note:"",...e(),...n,updatedAt:(new Date).toISOString()};return s(o),o}export{u as c,e as l,s,r as u};
