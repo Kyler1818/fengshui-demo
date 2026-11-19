@@ -1,1 +1,0 @@
-import{a1 as n}from"./index-hFbB4lyh.js";function r(){return n("/me/entitlement")}function t(){return n("/plans")}function e(r){return n("/orders",{method:"POST",data:{planCode:r}})}function a(){return n("/orders")}export{t as a,a as b,e as c,r as g};
