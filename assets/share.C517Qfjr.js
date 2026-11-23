@@ -1,0 +1,1 @@
+import{a1 as r}from"./index-CnxX3SiE.js";function a(a){return r("/share/cards",{method:"POST",data:{reportId:a}})}function e(a){return r(`/share/cards/${a}/revoke`,{method:"POST"})}function n(a){return r(`/share/landing/${a}`)}export{a as c,n as g,e as r};
