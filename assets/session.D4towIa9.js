@@ -1,0 +1,1 @@
+import{a7 as n,n as e}from"./index-DtAy_iL_.js";function o(){return n("fs:v1:session",null)}function r(n){return!!Boolean(null==(r=o())?void 0:r.accessToken)||(e({url:`/pages/me/login?redirect=${encodeURIComponent(n)}`}),!1);var r}export{o as g,r};
